@@ -26,7 +26,7 @@
                 <?php } ?>
             </tbody>
         </table>
-
+        <p>Hola</p>
     </div>
 </div>
 
