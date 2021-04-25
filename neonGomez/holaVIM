@@ -1,3 +1,1 @@
-<?php
-$name = "Juan Pablo";
-echo "Hola ".$name;
+programa fail desde vim
